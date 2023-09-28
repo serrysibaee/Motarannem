@@ -17,9 +17,11 @@ unfortunatly I used free colab to train the model so the results are not that go
     * LLAMA & JAIS (as new LLM arch)
     * use pytroch implementaion istream of from scratch
 ## Instructions for use:
-you can use this model by cloning the repo and make un object of the model then use the pre-trained weights with this code: [Link](https://colab.research.google.com/drive/173uEf9WY1fCrX8crlgbxzQvtT93djmBz?usp=sharing)
+ the pre-trained weights with this code: [Link](https://colab.research.google.com/drive/173uEf9WY1fCrX8crlgbxzQvtT93djmBz?usp=sharing)
 
 Note: you need to download the dataset [Link](https://drive.google.com/file/d/1rIAZs5xuPAwrXvGw1tF1m1TK3kmwlu3G/view?usp=drive_link) to run the model for the tokens and token decoder encoder but the trained model is in this repo
+
+- Also for the `Tarannom.ipynb` is the source code of the first model 
 
 ## Model evaluation:
 until now Only one fully trained model was done  
