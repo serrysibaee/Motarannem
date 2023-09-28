@@ -32,9 +32,9 @@ as follow:
 | 1 | 10000 | 2.0209 |
 
 Models archs
-|#Model| #layers|#haeds|dim|params|
+|#Model| #layers|#haeds|dim|#params|
 |---|---|---|---|---|
-| 1 | 8 | 128 | 128 |2.4M|
+| 1 | 8 | 12 | 128 |2.4M|
 
 ## Examples
 * أم ذكرتِ قبلاً فكان رشداً ولنا ما براه السرور الدما
