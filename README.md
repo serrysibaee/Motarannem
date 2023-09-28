@@ -15,7 +15,7 @@ unfortunatly I used free colab to train the model so the results are not that go
 - Use new Model Architicutre
     * GELU (as activation)
     * LLAMA & JAIS (as new LLM arch)
-    * use pytroch implementaion istream of from scratch
+    * use pytroch implementaion instead of from scratch
 ## Instructions for use:
  the pre-trained weights with this code: [Link](https://colab.research.google.com/drive/173uEf9WY1fCrX8crlgbxzQvtT93djmBz?usp=sharing)
 
